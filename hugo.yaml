@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://https://blog.huarenjian.cn/
 languageCode: zh-cn
 title: 话人间和他的朋友们
 theme: hextra
@@ -18,15 +18,12 @@ menu:
     - name: 生活博客
       pageRef: /blog
       weight: 2
-    - name: 关于
-      pageRef: /about
-      weight: 3
     - name: 搜索
-      weight: 4
+      weight: 3
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 4
       url: "https://github.com/huarenjian1"
       params:
         icon: github
