@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 languageCode: zh-cn
-title: My New Hugo Site
+title: 话人间和他的朋友们
 theme: hextra
 markup:
   goldmark:
@@ -12,16 +12,16 @@ markup:
         enable: true
 menu:
   main:
-    - name: Documentation
+    - name: 学习文档
       pageRef: /docs
       weight: 1
-    - name: Blog
+    - name: 生活博客
       pageRef: /blog
       weight: 2
-    - name: About
+    - name: 关于
       pageRef: /about
       weight: 3
-    - name: Search
+    - name: 搜索
       weight: 4
       params:
         type: search
@@ -30,3 +30,17 @@ menu:
       url: "https://github.com/huarenjian1"
       params:
         icon: github
+params:
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
+    # Show or hide theme switcher
+  # Search
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content

@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site – My Docs</title>
+    <title>话人间和他的朋友们 – My Docs</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in My Docs on My New Hugo Site</description>
+    <description>Recent content in My Docs on 话人间和他的朋友们</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 24 Jun 2025 12:55:52 +0000</lastBuildDate>
