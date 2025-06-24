@@ -1,7 +1,7 @@
 ---
 date: '2025-06-24T18:09:13+08:00'
 draft: false
-title: 'Pinyuwending'
+title: '频域稳定'
 ---
 
 ## 引论
