@@ -27,6 +27,6 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra"
+      url: "https://github.com/huarenjian1"
       params:
         icon: github
