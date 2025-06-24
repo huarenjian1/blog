@@ -41,3 +41,12 @@ params:
     flexsearch:
       # index page by: content | summary | heading | title
       index: content
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/logo.svg
+      dark: images/logo-dark.svg
+      link: https://blog.huarenjian.cn/
+      width: 40
+      height: 20
