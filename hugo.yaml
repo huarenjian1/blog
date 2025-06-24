@@ -2,6 +2,14 @@ baseURL: https://example.org/
 languageCode: zh-cn
 title: My New Hugo Site
 theme: hextra
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ['$$', '$$']]
+          inline: [['$','$'],['\(', '\)']]
+        enable: true
 menu:
   main:
     - name: Documentation
