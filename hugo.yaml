@@ -29,6 +29,7 @@ menu:
       params:
         icon: github
 params:
+  enableImageLazyLoading: false
   theme:
     # light | dark | system
     default: system
