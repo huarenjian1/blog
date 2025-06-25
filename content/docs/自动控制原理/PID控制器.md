@@ -1,6 +1,6 @@
 ---
 title: "PID控制器"
-date: 2025-06-25T15:21:29.771Z
+date: 2025-06-25T18:16:40.663Z
 draft: false
 math: true
 ---
