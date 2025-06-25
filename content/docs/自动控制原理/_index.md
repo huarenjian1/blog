@@ -1,8 +1,9 @@
 ---
-title: '学习文档'
+title: '自动控制原理'
 cascade:
   type: docs
 math: true
+weight: 2
 ---
 
 {{< cards >}}
