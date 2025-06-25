@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/docs/</loc>
-    <lastmod>2025-06-24T12:55:52+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-06-24T12:55:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/docs/%E9%A2%91%E5%9F%9F%E7%A8%B3%E5%AE%9A%E6%80%A7/</loc>
+    <lastmod>2025-06-24T12:55:52+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/docs/</loc>
     <lastmod>2025-06-24T12:55:52+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
