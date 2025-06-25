@@ -1,9 +1,8 @@
 ---
-title: '自动控制原理'
+title: '电路理论基础'
 cascade:
   type: docs
 math: true
 weight: 2
 ---
-
 
