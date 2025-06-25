@@ -1,4 +1,5 @@
 baseURL: https://blog.huarenjian.cn/
+defaultContentLanguage: zh-cn
 languageCode: zh-cn
 title: 话人间和他的朋友们
 theme: hextra
