@@ -1,16 +1,9 @@
 ---
-title: '自动控制原理'
-cascade:
-  type: docs
+title: "自动控制原理"
+date: 2025-06-27T01:58:42.135Z
+draft: false
 math: true
-weight: 2
 ---
 
-## 主页建设中，请左侧查看
 
-## wolai页面
-
-[自动控制原理](https://www.wolai.com/huarj/hYMMgXJDb5rzCCx1xd7UbQ)
-
-[第7章 根轨迹法](https://www.wolai.com/huarj/nDoQVMMHC3y9U5W8hkZD1c)
 
