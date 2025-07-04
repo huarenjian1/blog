@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>话人间和他的朋友们 – Tags</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://blog.huarenjian.cn/tags/</link>
     <description>Recent content in Tags on 话人间和他的朋友们</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	  <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://blog.huarenjian.cn/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
       

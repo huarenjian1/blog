@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>话人间和他的朋友们 – 自动控制原理</title>
-    <link>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/</link>
+    <link>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/</link>
     <description>Recent content in 自动控制原理 on 话人间和他的朋友们</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 27 Jun 2025 07:04:23 +0000</lastBuildDate>
     
-	  <atom:link href="http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>习题课</title>
-      <link>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E4%B9%A0%E9%A2%98%E8%AF%BE/</link>
+      <link>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E4%B9%A0%E9%A2%98%E8%AF%BE/</link>
       <pubDate>Wed, 25 Jun 2025 18:41:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E4%B9%A0%E9%A2%98%E8%AF%BE/</guid>
+      <guid>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E4%B9%A0%E9%A2%98%E8%AF%BE/</guid>
       <description>
         
         
@@ -34,10 +34,10 @@
     
     <item>
       <title>Routh-Hurwitz稳定性判据</title>
-      <link>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/routh-hurwitz%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%A4%E6%8D%AE/</link>
+      <link>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/routh-hurwitz%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%A4%E6%8D%AE/</link>
       <pubDate>Wed, 25 Jun 2025 18:37:08 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/routh-hurwitz%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%A4%E6%8D%AE/</guid>
+      <guid>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/routh-hurwitz%E7%A8%B3%E5%AE%9A%E6%80%A7%E5%88%A4%E6%8D%AE/</guid>
       <description>
         
         
@@ -50,10 +50,10 @@
     
     <item>
       <title>根轨迹法</title>
-      <link>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E6%A0%B9%E8%BD%A8%E8%BF%B9%E6%B3%95/</link>
+      <link>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E6%A0%B9%E8%BD%A8%E8%BF%B9%E6%B3%95/</link>
       <pubDate>Wed, 25 Jun 2025 18:37:06 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E6%A0%B9%E8%BD%A8%E8%BF%B9%E6%B3%95/</guid>
+      <guid>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E6%A0%B9%E8%BD%A8%E8%BF%B9%E6%B3%95/</guid>
       <description>
         
         
@@ -89,10 +89,10 @@
     
     <item>
       <title>系数集</title>
-      <link>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E7%B3%BB%E6%95%B0%E9%9B%86/</link>
+      <link>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E7%B3%BB%E6%95%B0%E9%9B%86/</link>
       <pubDate>Wed, 25 Jun 2025 18:36:55 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E7%B3%BB%E6%95%B0%E9%9B%86/</guid>
+      <guid>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E7%B3%BB%E6%95%B0%E9%9B%86/</guid>
       <description>
         
         
@@ -111,10 +111,10 @@
     
     <item>
       <title>Bode图</title>
-      <link>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/bode%E5%9B%BE/</link>
+      <link>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/bode%E5%9B%BE/</link>
       <pubDate>Wed, 25 Jun 2025 18:36:53 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/bode%E5%9B%BE/</guid>
+      <guid>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/bode%E5%9B%BE/</guid>
       <description>
         
         
@@ -124,10 +124,10 @@
     
     <item>
       <title>PID控制器</title>
-      <link>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/pid%E6%8E%A7%E5%88%B6%E5%99%A8/</link>
+      <link>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/pid%E6%8E%A7%E5%88%B6%E5%99%A8/</link>
       <pubDate>Wed, 25 Jun 2025 18:36:51 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/pid%E6%8E%A7%E5%88%B6%E5%99%A8/</guid>
+      <guid>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/pid%E6%8E%A7%E5%88%B6%E5%99%A8/</guid>
       <description>
         
         
@@ -299,10 +299,10 @@
     
     <item>
       <title>频域稳定性</title>
-      <link>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E9%A2%91%E5%9F%9F%E7%A8%B3%E5%AE%9A%E6%80%A7/</link>
+      <link>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E9%A2%91%E5%9F%9F%E7%A8%B3%E5%AE%9A%E6%80%A7/</link>
       <pubDate>Wed, 25 Jun 2025 18:36:47 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E9%A2%91%E5%9F%9F%E7%A8%B3%E5%AE%9A%E6%80%A7/</guid>
+      <guid>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E9%A2%91%E5%9F%9F%E7%A8%B3%E5%AE%9A%E6%80%A7/</guid>
       <description>
         
         
@@ -336,10 +336,10 @@ F(s){=}1{+}L(s){=}0,\quad L(s){=}G_c(s)G(s)H(s)
     
     <item>
       <title>考点集</title>
-      <link>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E8%80%83%E7%82%B9%E9%9B%86/</link>
+      <link>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E8%80%83%E7%82%B9%E9%9B%86/</link>
       <pubDate>Wed, 25 Jun 2025 18:36:45 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E8%80%83%E7%82%B9%E9%9B%86/</guid>
+      <guid>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E8%80%83%E7%82%B9%E9%9B%86/</guid>
       <description>
         
         

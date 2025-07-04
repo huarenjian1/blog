@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"68b1b4e1b713a67e","x":1907,"y":-58,"width":436,"height":607,"type":"group","label":"由正交求剩余的特征向量"},
+		{"id":"ca12cda81540e6fe","x":2423,"y":-53,"width":394,"height":421,"type":"group","label":"AB与BA特征值"},
+		{"id":"cc7f89e5b70743a3","type":"file","file":"0000附件/线性代数/image/已知基求矩阵.png","x":-240,"y":-320,"width":400,"height":278},
+		{"id":"0d97463a3a00aee9","type":"file","file":"0000附件/线性代数/image/Pasted image 20250702205309.png","x":-240,"y":40,"width":400,"height":159},
+		{"id":"b05d8357390fd1c7","type":"file","file":"0000附件/线性代数/image/Pasted image 20250702205953.png","x":474,"y":0,"width":400,"height":40},
+		{"id":"89d487c1ab7ca007","type":"file","file":"0000附件/线性代数/image/Pasted image 20250702210005.png","x":480,"y":-83,"width":400,"height":83},
+		{"id":"197a77d8c3bd185d","type":"file","file":"0000附件/线性代数/image/Pasted image 20250702213024.png","x":440,"y":300,"width":398,"height":77},
+		{"id":"1bc8c5fa9ec6aa75","type":"file","file":"0000附件/线性代数/image/Pasted image 20250702213042.png","x":440,"y":400,"width":400,"height":67},
+		{"id":"d32055b2c7f111cf","type":"file","file":"0000附件/线性代数/image/Pasted image 20250702213703.png","x":980,"y":-41,"width":334,"height":399},
+		{"id":"d3abb64410aecbd9","type":"file","file":"0000附件/线性代数/image/Pasted image 20250702214825.png","x":1460,"y":-41,"width":399,"height":72},
+		{"id":"bbf4d9472f032f24","type":"file","file":"0000附件/线性代数/image/Pasted image 20250702214835.png","x":1460,"y":60,"width":400,"height":572},
+		{"id":"0137558c2c2567e8","x":1920,"y":-41,"width":400,"height":334,"type":"file","file":"0000附件/线性代数/image/Pasted image 20250703100346.png"},
+		{"id":"9d1835b98269020f","x":1920,"y":320,"width":400,"height":208,"type":"file","file":"0000附件/线性代数/image/Pasted image 20250703100514.png"},
+		{"id":"b7e0d6628e4b4627","x":2440,"y":-41,"width":373,"height":400,"type":"file","file":"0000附件/线性代数/image/Pasted image 20250703101947.png"}
+	],
+	"edges":[]
+}

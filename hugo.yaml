@@ -52,6 +52,6 @@ params:
     logo:
       path: images/logo.svg
       dark: images/logo-dark.svg
-      link: https://blog-c0m.pages.dev/
+      link: https://blog.huarenjian.cn/
       width: 40
       height: 20
