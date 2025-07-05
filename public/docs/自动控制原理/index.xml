@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>话人间和他的朋友们 – 自动控制原理</title>
+    <title>话人间的笔记小屋 – 自动控制原理</title>
     <link>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/</link>
-    <description>Recent content in 自动控制原理 on 话人间和他的朋友们</description>
+    <description>Recent content in 自动控制原理 on 话人间的笔记小屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 27 Jun 2025 07:04:23 +0000</lastBuildDate>
@@ -344,10 +344,10 @@ F(s){=}1{+}L(s){=}0,\quad L(s){=}G_c(s)G(s)H(s)
         
         
         &lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 第十章 仅掌握设计方法（表示肯定不考，设计方法应该是出在）&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; PID要考，有且仅有：ZN整定，λ整定。其他整定必不考&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 作图：根轨迹和bode必画&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Nyquist图画概要图，三个重要的点为频率0和频率∞对应的点，以及与实轴交点&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 第十章 仅掌握设计方法（表示肯定不考，设计方法应该是出在）&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; PID要考，有且仅有：ZN整定，λ整定。其他整定必不考&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 作图：根轨迹和bode必画&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Nyquist图画概要图，三个重要的点为频率0和频率∞对应的点，以及与实轴交点&lt;/li&gt;
 &lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Nichols 图不考&lt;/li&gt;
 &lt;/ul&gt;
 

@@ -1,7 +1,7 @@
 baseURL: https://blog.huarenjian.cn/
 defaultContentLanguage: zh-cn
 languageCode: zh-cn
-title: 话人间和他的朋友们
+title: 话人间的笔记小屋
 theme: hextra
 markup:
   goldmark:
@@ -55,3 +55,6 @@ params:
       link: https://blog.huarenjian.cn/
       width: 40
       height: 20
+  footer:
+    displayCopyright: true
+    copyright: "© 话人间的笔记小屋 | <a href='https://beian.miit.gov.cn/' style='color:inherit'>湘ICP备2025128660号-1</a>"

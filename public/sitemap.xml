@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.huarenjian.cn/docs/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2025-06-29T16:06:06+08:00</lastmod>
-  </url><url>
     <loc>https://blog.huarenjian.cn/docs/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/%E4%BE%8B%E9%A2%98%E9%9B%86/</loc>
     <lastmod>2025-06-28T16:06:18+08:00</lastmod>
   </url><url>
-    <loc>https://blog.huarenjian.cn/docs/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%91%9E%E5%88%A9%E5%95%86/</loc>
-    <lastmod>2025-07-03T14:07:07+08:00</lastmod>
+    <loc>https://blog.huarenjian.cn/docs/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/</loc>
+    <lastmod>2025-07-05T16:07:35+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.huarenjian.cn/docs/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1/</loc>
+    <lastmod>2025-07-05T16:07:35+08:00</lastmod>
   </url><url>
     <loc>https://blog.huarenjian.cn/</loc>
-    <lastmod>2025-07-03T14:07:07+08:00</lastmod>
+    <lastmod>2025-07-05T16:07:35+08:00</lastmod>
   </url><url>
     <loc>https://blog.huarenjian.cn/docs/</loc>
+    <lastmod>2025-07-05T16:07:35+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.huarenjian.cn/docs/%E7%94%B5%E8%B7%AF%E7%90%86%E8%AE%BA%E5%9F%BA%E7%A1%80/</loc>
+    <lastmod>2025-07-04T20:07:58+08:00</lastmod>
+  </url><url>
+    <loc>https://blog.huarenjian.cn/docs/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%91%9E%E5%88%A9%E5%95%86/</loc>
     <lastmod>2025-07-03T14:07:07+08:00</lastmod>
   </url><url>
     <loc>https://blog.huarenjian.cn/docs/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E5%AE%9E%E4%BA%8C%E6%AC%A1%E5%9E%8B/</loc>
@@ -53,12 +59,6 @@
     <loc>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/</loc>
     <lastmod>2025-06-27T07:04:23+00:00</lastmod>
   </url><url>
-    <loc>https://blog.huarenjian.cn/blog/</loc>
-    <lastmod>2025-06-26T11:06:12+08:00</lastmod>
-  </url><url>
-    <loc>https://blog.huarenjian.cn/blog/%E8%87%AA%E6%8E%A7%E8%A6%81%E5%AF%84%E4%BA%86/</loc>
-    <lastmod>2025-06-26T11:06:12+08:00</lastmod>
-  </url><url>
     <loc>https://blog.huarenjian.cn/docs/%E8%87%AA%E5%8A%A8%E6%8E%A7%E5%88%B6%E5%8E%9F%E7%90%86/%E4%B9%A0%E9%A2%98%E8%AF%BE/</loc>
     <lastmod>2025-06-25T18:41:45+00:00</lastmod>
   </url><url>
@@ -88,5 +88,7 @@
     <loc>https://blog.huarenjian.cn/tags/</loc>
   </url><url>
     <loc>https://blog.huarenjian.cn/friends/</loc>
+  </url><url>
+    <loc>https://blog.huarenjian.cn/blog/</loc>
   </url>
 </urlset>

@@ -1,0 +1,5 @@
+{{ if .Site.Params.footer.displayCopyright }}
+<div class="hx:w-full hx:text-center">
+  {{ .Site.Params.footer.copyright | safeHTML }}
+</div>
+{{ end }}

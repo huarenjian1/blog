@@ -1,7 +1,6 @@
 ---
 title: "Routh-Hurwitz稳定性判据"
 date: 2025-06-25T18:37:08.440Z
-draft: false
 math: true
 ---
 
