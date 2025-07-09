@@ -1,18 +1,1 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>话人间的笔记小屋 – Tags</title>
-    <link>https://blog.huarenjian.cn/tags/</link>
-    <description>Recent content in Tags on 话人间的笔记小屋</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    
-	  <atom:link href="https://blog.huarenjian.cn/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-  </channel>
-</rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>话人间的笔记小屋 – Tags</title><link>https://blog.huarenjian.cn/tags/</link><description>Recent content in Tags on 话人间的笔记小屋</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><atom:link href="https://blog.huarenjian.cn/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

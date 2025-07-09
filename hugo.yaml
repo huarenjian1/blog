@@ -11,6 +11,8 @@ markup:
           block: [['\[', '\]'], ['$$', '$$']]
           inline: [['$','$'],['\(', '\)']]
         enable: true
+    renderer:
+      unsafe: true
 menu:
   main:
     - name: 学习文档
@@ -58,3 +60,4 @@ params:
   footer:
     displayCopyright: true
     copyright: "© 话人间的笔记小屋 | <a href='https://beian.miit.gov.cn/' style='color:inherit'>湘ICP备2025128660号-1</a>"
+    displayPoweredBy: false
