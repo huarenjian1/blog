@@ -1,0 +1,68 @@
+/* 段落行高与段间距优化 */
+p {
+  line-height: 1.5 !important; /* 行间距保持紧凑 */
+  margin-top: 0.6em !important; /* 段前间距 */
+  margin-bottom: 0.6em !important; /* 段后间距 */
+}
+.content {
+  font-family: "Lucida Sans Regular","华文中宋","微软雅黑",Simsun,sans-serif;;
+  font-size: 16.5px;
+}
+/* 补充：其他元素的空白行优化（如列表、引用等，保持整体一致性） */
+ul li,
+ol li {
+  line-height: 1.5 !important;
+  margin-top: 0.6em !important;
+  margin-bottom: 0.6em !important;
+}
+
+blockquote {
+  line-height: 1.5;
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+
+/* 一级标题 */
+h1{
+    font-size: 23px !important;
+    text-align: center;
+}
+/* 二级标题 */
+h2{
+    font-size: 21.5px !important;
+    text-align: center;
+}
+/* 三级标题 */
+h3{
+    font-size: 19px !important;
+    text-align: center;
+}
+/* 四级标题 */
+h4{
+    font-size: 17.5px !important;
+    text-align: center;
+}
+/* 五级标题 */
+h5{
+    font-size: 14px !important;
+    text-align: center;
+}
+/* 六级标题 */
+h6{
+    font-size: 12px !important;
+    text-align: center;
+}
+
+/* Mermaid 容器居中 */
+.mermaid {
+  text-align: center;
+  margin: 0 auto;
+  max-width: 100%; /* 避免宽图溢出 */
+}
+/* 强制 SVG 响应式并居中（适配不同主题） */
+.mermaid svg {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
